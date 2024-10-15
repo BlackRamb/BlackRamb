@@ -1,6 +1,6 @@
 #Getting and setting up the AI
 import openai 
-openai.api_key = "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"
+openai.api_key = "Insert key here"
 model_engine = "text-davinci-003"
 
 #Grabbing variables
